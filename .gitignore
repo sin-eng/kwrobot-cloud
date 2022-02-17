@@ -1,0 +1,38 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/test/**
+/logs/
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+/hs_err_pid16068.log
+/hs_err_pid16196.log
+/hs_err_pid17392.log
+/hs_err_pid22196.log
+
+### ExVim ###
+.exvim
+.exvim..exvim/
